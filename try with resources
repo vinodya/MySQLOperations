@@ -1,0 +1,7 @@
+Auto-closable with try with resources instead of try catch final
+
+-Resources must be both declared and initialized inside the try.
+-Replace the try catch final and verbose it
+-It makes sure that all declared resoources will be closed at the end of the statement
+
+
